@@ -13,7 +13,7 @@ public class Ex5 {
 
         int contadorDeDivisores = 0;
 
-        System.out.println("Digite um número para seber se ele é PRIMO: ");
+        System.out.println("Digite um número para saber se ele é PRIMO: ");
             int numero = input.nextInt();
 
             for (int i = 2 ; i < numero ; i++){
