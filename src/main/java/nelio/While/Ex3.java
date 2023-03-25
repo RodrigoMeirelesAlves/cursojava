@@ -9,7 +9,7 @@ public class Ex3 {
      4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até
      que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a
      mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível.
-     */
+     **/
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -30,7 +30,7 @@ public class Ex3 {
         }
         sc.close();
         System.out.println("Muito Obrigado");
-        System.out.println("Àlcool + " + alcool);
+        System.out.println("Àlcool " + alcool);
         System.out.println("Gasolina " + gasolina);
         System.out.println("Diesel " + diesel);
     }
