@@ -20,8 +20,7 @@ public class Ex2 {
                 } else  {
                 System.out.println( ano + " Não é um ano bisexto");
         }
-
-            sc.close();
+                sc.close();
 
     }
 }

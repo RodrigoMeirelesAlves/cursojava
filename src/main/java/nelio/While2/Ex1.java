@@ -1,4 +1,4 @@
-package nelio.While;
+package nelio.While2;
 
 import java.util.Scanner;
 
